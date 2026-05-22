@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Logo Remover",
+  "description": "An intelligent Material 3 application to remove and erase watermarks, logos, or text from images using smart local inpainting and AI detection helpers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
